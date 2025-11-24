@@ -67,6 +67,7 @@ To keep the project maintainable and adaptable, the XP rules should not be tight
   - Some extra boilerplate (dataclasses and DTO-like structures) compared to an all-in-one script.
 
 - **Follow-up ADRs (planned)**
-  - ADR-0002: Choose specific Qt binding (e.g., PySide6).
-  - ADR-0003: Decide on config persistence (JSON/YAML file vs. hard-coded defaults).
-  - ADR-0004: UI layout and interactions for the desktop app.
+  - ADR-0002: Testing layout
+  - ADR-0003: Choose specific Qt binding (e.g., PySide6).
+  - ADR-0004: Decide on config persistence (JSON/YAML file vs. hard-coded defaults).
+  - ADR-0005: UI layout and interactions for the desktop app.
